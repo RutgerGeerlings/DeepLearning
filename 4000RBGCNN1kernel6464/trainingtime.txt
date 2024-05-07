@@ -1,0 +1,1 @@
+Training took 00:35:0.665378 (hh:mm:ss).
