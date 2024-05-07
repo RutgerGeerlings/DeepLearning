@@ -18,7 +18,7 @@ For more details about the dataset and to access the data, visit [UTKFace Datase
 
 ### Step 1: Data Cleaning and Preprocessing
 
-1. Navigate to the `Age Prediction Image Cleaning.ipynb` file via the 'ImageProcessing' folder.
+1. Navigate to the `Age Prediction Image Cleaning.ipynb` file via the `ImageProcessing` folder.
 2. Run to perform data cleaning and preprocessing. Ensure the output data is correctly formatted and stored for subsequent training.
 
 ### Step 2: Model Training
